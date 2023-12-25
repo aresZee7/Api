@@ -1,7 +1,7 @@
 local Hub = {
   ["Zee Hub"] = {
     ["Logo"] = "",
-    ["Value] = false,
+    ["Value] = true,
   },
 }
 
